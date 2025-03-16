@@ -1,22 +1,15 @@
 # Unity Flight Tracker
 
-A flight tracker made in Unity3d(URP) using the [aviationstack](https://aviationstack.com/dashboard) API.
+Un flight tracker facut in Unity3D folosind [aviationstack](https://aviationstack.com/dashboard) API.
 
-## Features
+## Feature-uri
 
-- Live tracking of flights
-- Displaying informations about the flights
-- Displaying the route of the flight from the departure airport to the arrival airport
+- Afisarea unor zboruri reale pe glob
+- Afisarea rutei zborului
 
-## To be added
-
-- Quality of life features
-- Custom API key input from users
-- More airports
-- Support for a custom JSON of airports
 
 ## Note
 
-- The project uses the API key of the user. Free plan users only have 1000 requests. Create an api key [here](https://aviationstack.com/product)
+- Proiectul foloseste o cheie de API gratis, ce limiteaza feature-urile aplicatiei. Preturile pentru o cheie premium pot fi vizualizate aici [here](https://aviationstack.com/product)
 
 [MIT](https://choosealicense.com/licenses/mit/)
